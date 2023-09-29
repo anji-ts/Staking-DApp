@@ -1,2 +1,2 @@
-# Staking-DApp
-This DApp is for token staking, where users can securely lock their tokens, earn rewards, and claim them with transparency.
+## Staking-DApp
+This DApp, called "staking," enables users to lock their tokens in a staking pool to earn rewards. It supports staking and withdrawal of tokens, as well as claiming earned rewards. The contract calculates rewards based on the duration and amount of tokens staked. It is implemented with OpenZeppelin's ReentrancyGuard and interfaces with two ERC-20 tokens for staking and rewards. Users can stake, withdraw, and claim rewards while ensuring proper tracking and distribution of rewards.
